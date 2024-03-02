@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.1" class="java.beans.XMLDecoder">
+ <object class="com.example.labyrinth_runner.memento.impl.PlayerObjectMemento">
+  <void property="meshMapLocation">
+   <object class="com.example.labyrinth_runner.Pair">
+    <void property="key">
+     <int>3</int>
+    </void>
+    <void property="value">
+     <int>4</int>
+    </void>
+   </object>
+  </void>
+  <void property="middlePoint">
+   <object class="com.example.labyrinth_runner.memento.impl.Point2DMemento">
+    <void property="x">
+     <double>70.0</double>
+    </void>
+    <void property="y">
+     <double>90.0</double>
+    </void>
+   </object>
+  </void>
+  <void property="radius">
+   <double>10.0</double>
+  </void>
+ </object>
+</java>
